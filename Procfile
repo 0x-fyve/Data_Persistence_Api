@@ -1,0 +1,1 @@
+web: gunicorn Data_Persistence.wsgi
